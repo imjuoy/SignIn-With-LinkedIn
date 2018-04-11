@@ -3,4 +3,6 @@ A simple application that uses LinkedIn authentication protocols and REST Api to
 
 This application uses Localhost as the callback URL. Figure out what URL's you will use for your call back.
 Also, required is to create a LinkedIn developer application to create the Client Secret and Client Key. 
-The callback URL needs to be registered with the LinkedIn application
+The callback URL needs to be registered with the LinkedIn application.
+
+node Server.js
