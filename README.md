@@ -5,4 +5,5 @@ This application uses Localhost as the callback URL. Figure out what URL's you w
 Also, required is to create a LinkedIn developer application to create the Client Secret and Client Key. 
 The callback URL needs to be registered with the LinkedIn application.
 
+# To run the application execute the below command:
 node Server.js
